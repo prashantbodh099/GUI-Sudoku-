@@ -8,4 +8,4 @@ It includes the six different java files that are as follows:
 5). Dif_Game.java: This java file id specially developed for the pro level means a hard sudoku.It will generate a 16x16 sudoku.
 6). xSudoku.java: Last but not the least ,this is basically  a diagonal sudoku generator.It will be of 9x9.
 
-All the game id GUI based .
+All the game is GUI based .
